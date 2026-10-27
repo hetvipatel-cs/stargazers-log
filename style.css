@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+    line-height: 1.5;
+}
+
+#status {
+    margin: 0 0 1rem;
+    color: #444;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ddd;
+}
+
+li:last-child {
+    border-bottom: none;
+}
